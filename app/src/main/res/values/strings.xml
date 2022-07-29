@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CameraX-Sensors</string>
+    <string name="discreet_photo">Discreet Photo</string>
+    <string name="motion_video">Motion Video</string>
 </resources>
