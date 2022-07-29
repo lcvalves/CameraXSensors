@@ -15,7 +15,7 @@
         android:layout_marginBottom="204dp"
         android:elevation="2dp"
         android:text="@string/discreet_photo"
-        android:drawableStart="@android:drawable/ic_menu_camera"
+        android:drawableLeft="@android:drawable/ic_menu_camera"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent" />
 
@@ -27,7 +27,7 @@
         android:layout_marginBottom="124dp"
         android:elevation="2dp"
         android:text="@string/motion_video"
-        android:drawableStart="@android:drawable/presence_video_online"
+        android:drawableLeft="@android:drawable/presence_video_online"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent" />
 
