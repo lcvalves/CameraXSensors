@@ -20,7 +20,7 @@
         app:layout_constraintLeft_toLeftOf="parent" />
 
     <Button
-        android:id="@+id/btn_go_camera2"
+        android:id="@+id/btn_go_video"
         android:layout_width="308dp"
         android:layout_height="54dp"
         android:layout_marginStart="48dp"

@@ -16,14 +16,14 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, CameraActivity::class.java)
             startActivity(intent)
         }
-        /*
+
         // Go to Video Activity
-        val btnVideo : Button = findViewById(R.id.btn_go_video);
+        val btnVideo : Button = findViewById(R.id.btn_go_video)
         btnVideo.setOnClickListener{
             val intent = Intent(this, VideoActivity::class.java)
             startActivity(intent)
         }
-        */
+
     }
 
 
